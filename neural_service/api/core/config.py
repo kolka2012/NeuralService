@@ -1,0 +1,4 @@
+MAX_CONTENT_LENGTH = 8 * 1024 * 1024
+ALLOWED_EXTENSIONS = ('jpeg', 'jpg')
+ALLOWED_CONTENT_TYPES = ('image/jpeg')
+PREDICTION_SERVICE_URL = 'http://localhost:5000'
